@@ -48,6 +48,9 @@
   e.g 为KingOfData提供类似浏览器集成,用户信任社区,直接输入用户名密码登录,自动下载用户指定的数据.
 ...
 
+## 开发者交流
+[聊天室](https://gitter.im/King_Of_Data/community)
+
 ## 协议
 GPL-3.0
 
