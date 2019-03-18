@@ -1,2 +1,15 @@
-# KingOfData
-You are the King of your Data, that repository provide tools for you to get back your data.
+# KingOfData社区
+
+社区主旨是提供最全的工具, 让用户能安全快捷的拿回属于自己的各种数据.
+
+## 背景和动机
+
+## Why KingOfData社区
+
+## 合作组织
+
+## 如何开始
+
+## 协议
+
+## 参考链接
