@@ -23,11 +23,6 @@
 因此发起KingOfData社区, 代码开源、流程透明, 安全快捷的帮助用户拿回自己的数据,做自己的数据之王.
 
 
-## Membership
-[Solid中文社区](https://learnsolid.cn/)
-
-[TEEX.io](https://teex.io)
-
 ## 如何开始
 构建这样的社区需要众多开发者的力量完善, 为保持统一, 要求Python3开发,数据存为Json格式.
 
@@ -50,6 +45,11 @@
 
 ## 开发者交流
 [聊天室](https://gitter.im/King_Of_Data/community)
+
+## Membership
+[Solid中文社区](https://learnsolid.cn/)
+
+[TEEX.io](https://teex.io)
 
 ## 协议
 GPL-3.0
