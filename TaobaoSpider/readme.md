@@ -10,19 +10,19 @@
 
 # 2. 如何获取淘宝的cookie
 ## 2.1 使用chrome浏览器访问www.world.taobao.com并登陆
-![](F:\Teex\Spider\spiderforcustomer\taobao\pics\tb_1.png)
+![](./pics/tb_1.png)
 
 
 
 ## 2.2 按下F12，并点击Network查看网络请求
 
-![](F:\Teex\Spider\spiderforcustomer\taobao\pics\tb_2.png) 
+![](./pics/tb_2.png) 
 
 ​                                                                                                                            
 
 ## 2.3 刷新页面并从右边Network网络请求里面找到www.world.taobao.com, 查看这个请求的cookie
 
-![](F:\Teex\Spider\spiderforcustomer\taobao\pics\tb_3.png)
+![](./pics/tb_3.png)
 
 
 
